@@ -1,4 +1,8 @@
 # A/B Testing: Two-Sample t-Test:
+
+![Ekran görüntüsü 2022-11-17 014844](https://user-images.githubusercontent.com/81737980/202545951-c01bc7c1-f637-4153-85f3-a2e7ecdd8d56.jpg)
+
+
 Two-Sample t-test is used when it is desired to make a comparison between the mean of two groups. A/B Testing should always be based on a hypothesis. When selecting a problem, it is important to prioritize the problems and possible ideas of the service (product) to be tested.
 
 While you are establishing the hypotheses, it will be very helpful if you follow these steps:
